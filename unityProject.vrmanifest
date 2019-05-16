@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.multiplayertest.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\s0121586\\Documents\\ELW\\Multiplayer Test\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Multiplayer Test [Testing]"
+        }
+      }
+    }
+  ]
+}
